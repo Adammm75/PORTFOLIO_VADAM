@@ -23,7 +23,7 @@ import tailwindcss from '@tailwindcss/vite'
 import vercel from '@astrojs/vercel';
 
 export default defineConfig({
-  site: 'https://your-portfolio.vercel.app', // On changera ça après déploiement
+  site: 'https://adammm75.github.io/PORTFOLIO_VADAM2',
 
   integrations: [
     expressiveCode({

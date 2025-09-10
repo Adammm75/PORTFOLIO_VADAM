@@ -1,4 +1,4 @@
-# Developer Portfolio & Blog
+# Portfolio VADAM2
 
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -7,7 +7,7 @@
 
 ![thubnail](https://i.imgur.com/zPgHtcu.png "Preview")
 
-A modern, high-performance personal portfolio and blog built with Astro.js. Designed to showcase your projects and technical writing with blazing-fast performance and exceptional SEO.
+Portfolio personnel moderne et performant construit avec Astro.js. Conçu pour présenter mes projets et mes écrits techniques avec des performances optimales et un excellent SEO.
 
 ## ✨ Features
 
@@ -41,8 +41,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/cojocaru-david/portfolio.git
-   cd portfolio
+   git clone https://github.com/Adammm75/PORTFOLIO_VADAM2.git
+   cd PORTFOLIO_VADAM2
    ```
 
 2. **Install dependencies**

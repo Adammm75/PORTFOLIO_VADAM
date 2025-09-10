@@ -12,13 +12,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/cojocaru-david/portfolio.git"
+    "url": "https://github.com/Adammm75/PORTFOLIO_VADAM2.git"
   },
   "bugs": {
-    "url": "https://github.com/cojocaru-david/portfolio/issues"
+    "url": "https://github.com/Adammm75/PORTFOLIO_VADAM2/issues"
   },
-  "homepage": "https://cojocarudavid.me",
-  "name": "cojocarudavid.me",
+  "homepage": "https://adammm75.github.io/PORTFOLIO_VADAM2",
+  "name": "portfolio-vadam2",
   "type": "module",
   "version": "1.0.6",
   "private": false,
