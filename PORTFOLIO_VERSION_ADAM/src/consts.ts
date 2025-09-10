@@ -5,7 +5,7 @@ export const SITE: Site = {
   title: 'Mekkiou Adam',
   description:
     "Je suis un jeune <span style='color: #FCD34D; font-weight: 600;'>Développeur Informatique</span> avec une passion pour la conception d'applications innovantes. J'ai de l'expérience dans la <span style='color: #FCD34D; font-weight: 600;'>Data Science</span>, l'<span style='color: #FCD34D; font-weight: 600;'>IA</span> et le <span style='color: #FCD34D; font-weight: 600;'>Machine Learning</span>. Je suis un passionné de la technologie et de la programmation.",
-  href: 'https://cojocarudavid.me',
+  href: 'https://portfolio-vadam.vercel.app',
 	author: 'Mekkiou Adam',
   locale: 'en-US',
   location: 'France',
@@ -36,7 +36,7 @@ export const SOCIAL_LINKS: SocialLink[] = [
     label: 'GitHub',
   },
   {
-    href: 'mailto:contact@cojocarudavid.me',
+    href: 'mailto:adam.mekkiou@outlook.fr',
     label: 'Email',
   },
   {

@@ -36,9 +36,9 @@ export const POST: APIRoute = async ({ params, request }) => {
   // SECURITY CHECK: Validate origin/referer to prevent CSRF attacks
   const origin = request.headers.get('origin');
   const allowedOrigins = [
-    'https://cojocarudavid.me',  // Replace with your actual domain
+    'https://portfolio-vadam.vercel.app',  // Production domain
     'http://localhost:3000',   // For local development
-    'https://www.cojocarudavid.me', // Replace with your actual domain
+    'https://www.portfolio-vadam.vercel.app', // Production domain with www
   ];
 
   if (!origin || !allowedOrigins.includes(origin)) {

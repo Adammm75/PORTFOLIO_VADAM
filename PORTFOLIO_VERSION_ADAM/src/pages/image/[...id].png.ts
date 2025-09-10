@@ -94,7 +94,7 @@ export async function GET(context: APIContext) {
       >
         <div style="display: flex; align-items: center;">
           <div style="width: 6px; height: 28px;display: flex; background: rgb(27,27,27); margin-right: 16px; border-radius: 3px;"></div>
-          <span style="color: ${colors.text.secondary}; font-weight: 500; letter-spacing: 0.02em;">cojocarudavid.me</span>
+          <span style="color: ${colors.text.secondary}; font-weight: 500; letter-spacing: 0.02em;">portfolio-vadam.vercel.app</span>
         </div>
 
         <div style="display: flex; align-items: center; background: rgba(21,21,21, 0.8); border-radius: 18px; padding: 12px 22px; border: 1px solid rgba(255, 255, 255, 0.1);">
